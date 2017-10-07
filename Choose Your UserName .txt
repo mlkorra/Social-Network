@@ -1,0 +1,5 @@
+#Fri Mar 31 01:25:09 IST 2017
+Username=Choose Your UserName 
+EmailId=Enter your EmailID 
+Password=jPasswordField1
+Confirm\ Password=jPasswordField1

@@ -1,0 +1,5 @@
+#Fri Mar 31 09:40:17 IST 2017
+Username=wakeup
+EmailId=1
+Password=cool
+Confirm\ Password=cool
